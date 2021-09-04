@@ -10,9 +10,9 @@ Home Page
 
 Login Page
 
-![image](https://user-images.githubusercontent.com/46846116/132105082-05c4f8e5-f238-43db-ac7d-db2866618f3b.png)
+![image](https://user-images.githubusercontent.com/46846116/132105118-45492c67-7c3e-43fd-8aba-52073783fb10.png)
 
 Post Creation Page
 
-![image](https://user-images.githubusercontent.com/46846116/132105096-437092be-dd6d-4f1a-a96c-0e593302e8e9.png)
+![image](https://user-images.githubusercontent.com/46846116/132105112-60aa6467-1613-4d66-801f-d0eb55c5bd90.png)
 
